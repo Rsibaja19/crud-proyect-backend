@@ -1,4 +1,4 @@
-//task.Controller
+//Tareas
 import * as taskModel from "../models/task.model"
 
 const getTareasPorHacer = async (req, res) => {
